@@ -1,76 +1,79 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Portfolio Website - v2.0
+**soumyajit.tech**
 
-<br/>
+---
 
-<center>
+### Demo
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![forthebadge](https://forthebadge.com/images/badges/awesome.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg) ![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
-</center>
+![GitHub Repo stars](https://img.shields.io/github/stars/Soumyajit4419/portfolio-v2?style=social) ![GitHub forks](https://img.shields.io/github/forks/Soumyajit4419/portfolio-v2?style=social)
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+---
 
-## TL;DR
+### TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Fork this repo to create and customize your own portfolio website! If you use this project, kindly give proper credit by linking back to [pornima25s](https://github.com/pornima25s). Thank you!
+
+---
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio hosted at **[soumyajit.tech](https://soumyajit.tech)** showcases:
 
-This project was built using these technologies.
+- Selected GitHub projects.
+- My resume.
+- An overview of my technical skills.
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+This project leverages the following technologies:
+
+- **React.js**
+- **Node.js**
+- **Express.js**
+- **CSS3**
+- **Visual Studio Code**
+- **Vercel**
+
+---
 
 ## Features
 
-**📖 Multi-Page Layout**
+- **📖 Multi-Page Layout**: Seamless navigation across various sections.
+- **🎨 Customizable Design**: Styled with React-Bootstrap and CSS, allowing easy color adjustments.
+- **📱 Fully Responsive**: Perfectly adapts to different screen sizes.
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
+---
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clone this repository to your local machine. Ensure you have **Node.js** and **Git** installed globally.
 
-## 🛠 Installation and Setup Instructions
+### 🛠 Installation and Setup Instructions
 
-1. Installation: `npm install`
+1. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
-2. In the project directory, you can run: `npm start`
+2. **Run the App**:
+   ```bash
+   npm start
+   ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+This will launch the app in development mode.
+- Open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
+- The app will auto-reload upon code edits.
 
-## Usage Instructions
+---
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+### Usage Instructions
 
-### Show your support
+1. Open the project folder.
+2. Navigate to the `src/components/` directory.
+3. Update the components to customize the content (e.g., your information, projects, or skills).
 
-Give a ⭐ if you like this website!
+---
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+### Show Your Support
+
+If you enjoy this project, please consider giving it a ⭐ on GitHub!
