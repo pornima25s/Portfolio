@@ -1,79 +1,95 @@
 # Portfolio Website - v2.0
-**soumyajit.tech**
+
+Demo: [Live Website]()
 
 ---
 
-### Demo
+![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)  ![forthebadge](https://forthebadge.com/images/badges/powered-by-css3.svg)  ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
 
-![forthebadge](https://forthebadge.com/images/badges/awesome.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg) ![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Soumyajit4419/portfolio-v2?style=social) ![GitHub forks](https://img.shields.io/github/forks/Soumyajit4419/portfolio-v2?style=social)
+![GitHub stars](https://img.shields.io/github/stars/pornima25s/Portfolio?style=social)  ![GitHub forks](https://img.shields.io/github/forks/pornima25s/Portfolio?style=social)
 
 ---
 
-### TL;DR
+## 🚨 Quick Links
 
-Fork this repo to create and customize your own portfolio website! If you use this project, kindly give proper credit by linking back to [pornima25s](https://github.com/pornima25s). Thank you!
-
----
-
-## Built With
-
-My personal portfolio hosted at **[soumyajit.tech](https://soumyajit.tech)** showcases:
-
-- Selected GitHub projects.
-- My resume.
-- An overview of my technical skills.
-
-This project leverages the following technologies:
-
-- **React.js**
-- **Node.js**
-- **Express.js**
-- **CSS3**
-- **Visual Studio Code**
-- **Vercel**
+- [Report Bug](https://github.com/pornima25s/Portfolio/issues)  
+- [Request Feature](https://github.com/pornima25s/Portfolio/issues)
 
 ---
 
-## Features
+## 🚀 TL;DR
 
-- **📖 Multi-Page Layout**: Seamless navigation across various sections.
-- **🎨 Customizable Design**: Styled with React-Bootstrap and CSS, allowing easy color adjustments.
-- **📱 Fully Responsive**: Perfectly adapts to different screen sizes.
+Want to create your own portfolio? Fork this repository, customize it, and deploy it as your own! Don't forget to give credit by linking back to **[pornima25s](https://github.com/pornima25s)**.
 
 ---
 
-## Getting Started
+## 🛠 Built With
 
-Clone this repository to your local machine. Ensure you have **Node.js** and **Git** installed globally.
+This portfolio website showcases my projects, resume, and technical skills. It's developed using modern web technologies:
+
+- **React.js** - Frontend framework
+- **Node.js** - Backend runtime
+- **Express.js** - Web application framework
+- **CSS3** - Styling
+- **Visual Studio Code** - Development environment
+- **Vercel** - Deployment platform
+
+---
+
+## ✨ Features
+
+- **📖 Multi-Page Layout**: Clean navigation across multiple pages.
+- **🎨 Customizable Design**: Styled with React-Bootstrap and CSS for easy color and theme customization.
+- **📱 Fully Responsive**: Optimized for all screen sizes and devices.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed globally on your machine:
+
+- **Node.js**: [Download](https://nodejs.org/)
+- **Git**: [Download](https://git-scm.com/)
 
 ### 🛠 Installation and Setup Instructions
 
-1. **Install Dependencies**:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/pornima25s/Portfolio.git
+   ```
+
+2. **Install Dependencies**:
    ```bash
    npm install
    ```
 
-2. **Run the App**:
+3. **Run the Development Server**:
    ```bash
    npm start
    ```
 
-This will launch the app in development mode.
-- Open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
-- The app will auto-reload upon code edits.
+4. **View the App**:
+   Open [http://localhost:3000](http://localhost:3000) in your browser. The page will reload whenever you make edits.
 
 ---
 
-### Usage Instructions
+## 🖊️ Usage Instructions
 
 1. Open the project folder.
-2. Navigate to the `src/components/` directory.
-3. Update the components to customize the content (e.g., your information, projects, or skills).
+2. Navigate to the `/src/components/` directory.
+3. Edit the components to update your personal information, projects, and other details.
 
 ---
 
-### Show Your Support
+## ❤️ Show Your Support
 
-If you enjoy this project, please consider giving it a ⭐ on GitHub!
+Give this project a ⭐ if you find it helpful or inspiring!
+
+---
+
+### Acknowledgements
+
+Special thanks to the open-source community for providing amazing tools and resources that made this project possible!
+
