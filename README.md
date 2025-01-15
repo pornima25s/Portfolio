@@ -2,27 +2,6 @@
 
 Demo: [Live Website](https://pornima-portfolio-six.vercel.app/)
 
----
-
-![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)  ![forthebadge](https://forthebadge.com/images/badges/powered-by-css3.svg)  ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
-
-![GitHub stars](https://img.shields.io/github/stars/pornima25s/Portfolio?style=social)  ![GitHub forks](https://img.shields.io/github/forks/pornima25s/Portfolio?style=social)
-
----
-
-## 🚨 Quick Links
-
-- [Report Bug](https://github.com/pornima25s/Portfolio/issues)  
-- [Request Feature](https://github.com/pornima25s/Portfolio/issues)
-
----
-
-## 🚀 TL;DR
-
-Want to create your own portfolio? Fork this repository, customize it, and deploy it as your own! Don't forget to give credit by linking back to **[pornima25s](https://github.com/pornima25s)**.
-
----
-
 ## 🛠 Built With
 
 This portfolio website showcases my projects, resume, and technical skills. It's developed using modern web technologies:
