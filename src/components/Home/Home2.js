@@ -21,7 +21,7 @@ function Home2() {
                         <p className="home-about-body">
                             Enthusiastic Web Developer with a passion for creating
                             <i>
-                                <b className="purple">user-friendly, visually appealing websites and applications. </b>
+                                <b className="purple"> user-friendly, visually appealing websites and applications. </b>
                             </i>
                             <br />
                             <br />
